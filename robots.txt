@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-yebpt2.cingbet138.online/sitemap.xml
